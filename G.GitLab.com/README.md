@@ -7,7 +7,7 @@
 | 300111824 | |
 | 300115065 | |
 | 300115140 | https://gitlab.com/zackTO |
-| 300116670 | |
+| 300116670 | https://gitlab.com/Auriane25 |
 | 300116685 | https://gitlab.com/amirali175| 
 | 300116973 | https://gitlab.com/lagokamdem| 
 | 300117178 | https://gitlab.com/wilfridboris |
