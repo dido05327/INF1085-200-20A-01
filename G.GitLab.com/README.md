@@ -3,7 +3,7 @@
 
 | :id: |   Gitlab :id: |
 |-----------|---------------|
-| 300111441 | |
+| 300111441 | https://gitlab.com/Sekou16 |
 | 300111824 | |
 | 300115065 | https://gitlab.com/Fadde68 |
 | 300115140 | https://gitlab.com/zackTO |
