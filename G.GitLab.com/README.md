@@ -15,6 +15,6 @@
 | 300117444 | |
 | 300117782 | https://gitlab.com/Raissa11 |
 | 300117784 | https://gitlab.com/BertrandMoyou |
-| 300117806 | |
+| 300117806 | https://gitlab.com/Djibo648 |
 | 300118524 | |
 
